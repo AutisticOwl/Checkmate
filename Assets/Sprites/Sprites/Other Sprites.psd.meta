@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 868bd0950a1895a48b3e130721ef74d4
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Player
+    21300004: Shirt l
+    21300006: Shirt r
+    21300008: Shirt
+    21300010: Arm l
+    21300012: Arm r
+    21300014: Neck
+    21300016: Leg l
+    21300018: Leg r
+    21300020: Player_0
+    21300022: Player_1
+    21300024: Player_2
+    21300026: Gem
+    21300028: Clock
+    21300030: Player_5
+    21300032: Player_6
+    21300034: Player_7
+    21300036: Player_8
+    21300038: Player_9
+    21300040: Player_10
+    21300042: Sword
+    21300044: Wings
+    21300046: Sprites2_2
+    21300048: Corner Flourish
+    21300050: Heart
+    21300052: Sign
+    21300054: Heart
+    21300056: Heart2
+    21300058: Heart3
+    21300060: Sprites3_3
+    21300062: Sprites3_4
+    21300064: Sprites3_5
+    21300066: Sprites3_0
+    21300068: Spider Ref
+    21300070: Jumper Ref
+    21300072: SpiderHead
+    21300074: Sprites4 (Enemies)_3
+    21300076: SpiderFace
+    21300078: Sprites4 (Enemies)_5
+    21300080: Sprites4 (Enemies)_6
+    21300082: Sprites4 (Enemies)_7
+    21300084: Sprites4 (Enemies)_8
+    21300086: JumperFace
+    21300088: Sprites4 (Enemies)_10
+    21300090: Sprites4 (Enemies)_11
+    21300092: SpritesSpiderLeg
+    21300094: JumperHead
+    21300096: Sprites4 (Enemies)_15
+    21300098: SpiderLeg1
+    21300100: JumperSpring
+    21300102: SpiderLeg2
+    21300104: SpiderLeg4
+    21300106: SpiderLeg3
+    21300108: Cage
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpiderHead
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1120
+        width: 366
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d590524f006cd47b785007b020b88f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderFace
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1193
+        width: 256
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d820897bcefcb4c89a090ba581299b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperFace
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1070
+        width: 122
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8eeeb20a13024b98a11928c42c5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperHead
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 533
+        width: 321
+        height: 497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8a41f712c09424d95fab811fac7cb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderLeg1
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 106
+        width: 236
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85570e1c9c99fed47ad43c331e1d692e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumperSpring
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 38
+        width: 285
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0bbf85c331e99459c7655f3c330a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderLeg2
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 586
+        width: 287
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f4ad9c88262ce4998aa11c4bdd32ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderLeg4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 102
+        width: 242
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acffba39fb110743be9bf0b8301d207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderLeg3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 588
+        width: 291
+        height: 495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cbf686838d44e4aa7797c7d674b98e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cage
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 37
+        width: 1305
+        height: 2108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b47d386de3d0a4a8e2ea6787cac2e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9a7a408a7ed01a47a3d594dcca1b032
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

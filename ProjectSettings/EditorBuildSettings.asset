@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/0 - MainMenu.unity
+    guid: 0fe0351d9d9c7584fbbe5d31ce28dd7b
+  - enabled: 1
+    path: Assets/Scenes/1.unity
+    guid: 2ceb7c8aead52a84d83fb99b62d660b0
+  - enabled: 1
+    path: Assets/Scenes/2.unity
+    guid: 1c32bf58e36cf7e40a98da4dd8093a6d
+  - enabled: 1
+    path: Assets/Scenes/3.unity
+    guid: b360c4b9422fc6e4795b9f651c70693c
+  - enabled: 1
+    path: Assets/Scenes/4.unity
+    guid: 920cbf5d55535a6409dc0691b9bb5455
+  - enabled: 1
+    path: Assets/Scenes/5.unity
+    guid: d2657366a18b71b48a49c63b8d36276d
+  - enabled: 1
+    path: Assets/Scenes/5 - Unlock Knight.unity
+    guid: 1a27400a5c07c9d4ba834970a6748cc4
+  - enabled: 1
+    path: Assets/Scenes/6.unity
+    guid: 20e5c75ffba71e84e8936fbcd618d401
+  - enabled: 1
+    path: Assets/Scenes/7.unity
+    guid: 3f163cae253cb1b40b3835e5f010d040
+  - enabled: 1
+    path: Assets/Scenes/8.unity
+    guid: e62af14046067794db8171d8c93da812
+  - enabled: 1
+    path: Assets/Scenes/9.unity
+    guid: e41722339c2ab9845bbd5e713a146148
+  - enabled: 1
+    path: Assets/Scenes/10.unity
+    guid: 11fa20bd9b3961046ac6a1c027bf48d6
+  - enabled: 1
+    path: Assets/Scenes/10 - Unlock Bishop.unity
+    guid: 8ba6f878ca45b34408b3b3bed4082033
+  - enabled: 1
+    path: Assets/Scenes/11.unity
+    guid: 56a1579d352a4844ebc7876ac0fd41dc
+  - enabled: 1
+    path: Assets/Scenes/12.unity
+    guid: 0adb5193f08bdae469de32965ce8b572
+  - enabled: 1
+    path: Assets/Scenes/13.unity
+    guid: 418036eff7ae5694685b516b74e2ba1a
+  - enabled: 1
+    path: Assets/Scenes/14.unity
+    guid: ed10486d96548bc46910d5dba3b3f649
+  - enabled: 1
+    path: Assets/Scenes/15.unity
+    guid: e31752d1f6ef93a438fefc1f15ff2354
+  - enabled: 1
+    path: Assets/Scenes/15 - Unlock Rook.unity
+    guid: ecab31a97e8d32c48b1390862630e02f
+  - enabled: 1
+    path: Assets/Scenes/16.unity
+    guid: 6beb31892570d8d4d8fddfa7b3c8955a
+  - enabled: 1
+    path: Assets/Scenes/17.unity
+    guid: bfd71059afbafd844a591b6040359a7a
+  - enabled: 1
+    path: Assets/Scenes/18.unity
+    guid: ae451747732145b4195851693402a97c
+  - enabled: 1
+    path: Assets/Scenes/19.unity
+    guid: e1aafd599589b4b4590eb594a7b5bb6c
+  - enabled: 1
+    path: Assets/Scenes/20.unity
+    guid: ba9765f38b85ad04e82a3cf427c3a88b
+  - enabled: 1
+    path: Assets/Scenes/Queen Encounter.unity
+    guid: ef9fc07316338fc41968206a678ffd8b
+  - enabled: 1
+    path: Assets/OG_TESTING_SCENE.unity
+    guid: 5e71291d19feb544e9cf072548305cef
+  - enabled: 1
+    path: Assets/Scenes/Queen Fight.unity
+    guid: 1c40093aab5f32c44a4e6e99fada06fd
+  m_configObjects: {}

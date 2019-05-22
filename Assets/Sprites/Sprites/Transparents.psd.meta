@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: adc5126d7b31f1a49924ae78b5e23b39
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Player
+    21300004: Shirt l
+    21300006: Shirt r
+    21300008: Shirt
+    21300010: Arm l
+    21300012: Arm r
+    21300014: Neck
+    21300016: Leg l
+    21300018: Leg r
+    21300020: Player_0
+    21300022: Player_1
+    21300024: Player_2
+    21300026: Gem
+    21300028: Clock
+    21300030: Player_5
+    21300032: Player_6
+    21300034: Player_7
+    21300036: Player_8
+    21300038: Player_9
+    21300040: Player_10
+    21300042: Sword
+    21300044: Wings
+    21300046: Sprites2_2
+    21300048: Corner Flourish
+    21300050: Heart
+    21300052: Sign
+    21300054: Heart
+    21300056: Heart2
+    21300058: Heart3
+    21300060: Sprites3_3
+    21300062: Sprites3_4
+    21300064: Sprites3_5
+    21300066: Sprites3_0
+    21300068: Spider Ref
+    21300070: Jumper Ref
+    21300072: SpiderHead
+    21300074: Sprites4 (Enemies)_3
+    21300076: SpiderFace
+    21300078: Sprites4 (Enemies)_5
+    21300080: Sprites4 (Enemies)_6
+    21300082: Sprites4 (Enemies)_7
+    21300084: Sprites4 (Enemies)_8
+    21300086: JumperFace
+    21300088: Sprites4 (Enemies)_10
+    21300090: Sprites4 (Enemies)_11
+    21300092: SpritesSpiderLeg
+    21300094: JumperHead
+    21300096: Sprites4 (Enemies)_15
+    21300098: SpiderLeg1
+    21300100: JumperSpring
+    21300102: SpiderLeg2
+    21300104: SpiderLeg4
+    21300106: SpiderLeg3
+    21300108: King
+    21300110: Horse
+    21300112: Button
+    21300114: Circle
+    21300116: Striped
+    21300118: Bishop
+    21300120: Transparent5
+    21300122: Transparent4
+    21300124: Transparent3
+    21300126: Transparent2
+    21300128: Transparent10
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Transparent5
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1634
+        width: 2042
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ed39b485443e40b36750474afcdf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent4
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1130
+        width: 1652
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15b8944ac6a3c14aaec13d5d93ff1ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent3
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 599
+        width: 1254
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e16aefa88eb0546a0b0007b2d69f18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent2
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 70
+        width: 854
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf58a85d650a564aab2fb77fddc9eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Transparent10
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 241
+        height: 2111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce72844a237d1b64eb00e27e7045818b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9a7a408a7ed01a47a3d594dcca1b032
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

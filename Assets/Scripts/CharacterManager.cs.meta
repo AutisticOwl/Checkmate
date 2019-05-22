@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 27d805acb42bad24ab2121da0de6f529
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ArrowKing: {fileID: 1087110752485502, guid: bc60a51984b4d3e4a8262d2c4c04b49d,
+      type: 2}
+  - ArrowHorse: {fileID: 1832324700698892, guid: c2484970798d3aa46a458cc72ff60e8c,
+      type: 2}
+  - ArrowBishop: {fileID: 1679529114559684, guid: 59db3fbe812025f4db17cc0ffa535297,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

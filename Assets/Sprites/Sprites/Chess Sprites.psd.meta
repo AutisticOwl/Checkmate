@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: f95608ad1d4dddd4b84f4dba52cf7ec8
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: Player
+    21300004: Shirt l
+    21300006: Shirt r
+    21300008: Shirt
+    21300010: Arm l
+    21300012: Arm r
+    21300014: Neck
+    21300016: Leg l
+    21300018: Leg r
+    21300020: Player_0
+    21300022: Player_1
+    21300024: Player_2
+    21300026: Gem
+    21300028: Clock
+    21300030: Player_5
+    21300032: Player_6
+    21300034: Player_7
+    21300036: Player_8
+    21300038: Player_9
+    21300040: Player_10
+    21300042: Sword
+    21300044: Wings
+    21300046: Sprites2_2
+    21300048: Corner Flourish
+    21300050: Heart
+    21300052: Sign
+    21300054: Heart
+    21300056: Heart2
+    21300058: Heart3
+    21300060: Sprites3_3
+    21300062: Sprites3_4
+    21300064: Sprites3_5
+    21300066: Sprites3_0
+    21300068: Spider Ref
+    21300070: Jumper Ref
+    21300072: SpiderHead
+    21300074: Sprites4 (Enemies)_3
+    21300076: SpiderFace
+    21300078: Sprites4 (Enemies)_5
+    21300080: Sprites4 (Enemies)_6
+    21300082: Sprites4 (Enemies)_7
+    21300084: Sprites4 (Enemies)_8
+    21300086: JumperFace
+    21300088: Sprites4 (Enemies)_10
+    21300090: Sprites4 (Enemies)_11
+    21300092: SpritesSpiderLeg
+    21300094: JumperHead
+    21300096: Sprites4 (Enemies)_15
+    21300098: SpiderLeg1
+    21300100: JumperSpring
+    21300102: SpiderLeg2
+    21300104: SpiderLeg4
+    21300106: SpiderLeg3
+    21300108: King
+    21300110: Horse
+    21300112: Button
+    21300114: Circle
+    21300116: Striped
+    21300118: Bishop
+    21300120: Arrow
+    21300122: KingSelected
+    21300124: Rook
+    21300126: Castling
+    21300128: RookJump
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: King
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 559
+        height: 1541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dda0bdd4d0c3a41b3f833b5e55aad1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Horse
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 12
+        width: 782
+        height: 1228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcc14838cca92a4caedd73e4f66ab2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Button
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2050
+        width: 485
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa24c9b4616df254fbb9d54f5591c9c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1597
+        width: 423
+        height: 421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884fb2a58fe581743a5473dba5602798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Striped
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1374
+        width: 750
+        height: 750
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a992f0519b647ea44bcfa2f70f698620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bishop
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 8
+        width: 609
+        height: 1352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1caba2ebeded345a271aaf928129b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1860
+        width: 572
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e2574fd6ef15f4197053053f6a7ce1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rook
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 12
+        width: 684
+        height: 1046
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aede79778129274b9ac5a08cfeb51fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castling
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1102
+        width: 1427
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ca6e63d462424187c1ae77f715dde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RookJump
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 55
+        width: 939
+        height: 891
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a16e9160b653aa47af994376e9a6735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a9a7a408a7ed01a47a3d594dcca1b032
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
